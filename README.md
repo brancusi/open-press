@@ -4,7 +4,7 @@
 
 The goal of this project is to create a hackable press using easy to access parts.
 
-#### Features include:
+#### Specs:
 
 1. 20" square press area
 1. 1,500 - 2,000 lbs pressing power
