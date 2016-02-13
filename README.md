@@ -1,6 +1,6 @@
 # Open Press
 
-#### An [Arduino](https://www.arduino.cc/) based (Electro-mechanical actuator)[https://en.wikipedia.org/wiki/Linear_actuator] press for use in food service environments.
+#### An [Arduino](https://www.arduino.cc/) based [Electro-mechanical actuator](https://en.wikipedia.org/wiki/Linear_actuator) press for use in food service environments.
 
 The goal of this project is to create a hackable press using easy to access parts.
 
