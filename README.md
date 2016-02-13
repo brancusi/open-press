@@ -28,6 +28,6 @@ The goal of this project is to create a hackable press using easy to access part
 @TODO - With links and prices
 
 ## DISCLAIMER
-*THE AUTHORS OF THIS PROJECT ACCEPT ABSOLUTELY NO LIABILITY FOR ANY HARM OR LOSS RESULTING FROM ITS USE*. Any machinery capable of harming persons must have provisions for completely removing power from all motors, etc, before persons enter any danger area. All machinery must be designed to comply with local and national safety codes, and the authors of this project can not, and do not, take any responsibility for such compliance.
+__THE AUTHORS OF THIS PROJECT ACCEPT ABSOLUTELY NO LIABILITY FOR ANY HARM OR LOSS RESULTING FROM ITS USE__. Any machinery capable of harming persons must have provisions for completely removing power from all motors, etc, before persons enter any danger area. All machinery must be designed to comply with local and national safety codes, and the authors of this project can not, and do not, take any responsibility for such compliance.
 
 This project is released under the GPLv2.
